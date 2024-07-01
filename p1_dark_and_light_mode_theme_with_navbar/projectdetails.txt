@@ -1,0 +1,1 @@
+this project is basically setup of navbar code and nextjs themes dark and light mode and header and footer adn cart setup
